@@ -1,3 +1,0 @@
-= Test !
-
-C'est une test.
