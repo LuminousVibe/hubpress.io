@@ -4,7 +4,11 @@
     "repositoryName": "the-life-of-fetzig",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "The Life of Fetzig"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
