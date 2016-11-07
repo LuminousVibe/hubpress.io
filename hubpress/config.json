@@ -5,7 +5,9 @@
     "branch": "gh-pages"
   },
   "site": {
-    "title": "The Life of Fetzig"
+    "title": "The Life of Fetzig",
+    "googleAnalytics": "UA-86934695-1",
+    "disqus": "thelifeoffetzig"
   },
   "socialnetwork": {},
   "theme": {
