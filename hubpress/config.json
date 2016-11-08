@@ -7,7 +7,7 @@
   "site": {
     "title": "The Life of Fetzig",
     "description": "An adventure in illness, madness, and entering society.",
-    "logo": "/images/<logo.JPG>",
+    "logo": "the-life-of-fetzig/images/logo.JPG",
     "googleAnalytics": "UA-86934695-1",
     "disqus": "thelifeoffetzig"
   },
