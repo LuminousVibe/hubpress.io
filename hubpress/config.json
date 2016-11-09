@@ -12,7 +12,11 @@
     "googleAnalytics": "UA-86934695-1",
     "disqus": "thelifeoffetzig"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "twitter": "Luminous_vibe",
+    "instagram": "LuminousVibe",
+    "github": "LuminousVibe"
+  },
   "theme": {
     "name": "uno"
   }
