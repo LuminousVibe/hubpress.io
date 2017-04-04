@@ -31,10 +31,10 @@
     "name": "uno"
   },
   "urls": {
-    "site": "https://LuminousVibe.github.io/the-life-of-fetzig",
-    "hubpress": "https://luminousvibe.github.io/the-life-of-fetzig",
-    "theme": "//LuminousVibe.github.io/the-life-of-fetzig/themes/uno",
-    "images": "https://LuminousVibe.github.io/the-life-of-fetzig/images"
+    "site": "http://www.thelifeoffetzig.com",
+    "hubpress": "http://www.thelifeoffetzig.com",
+    "theme": "//www.thelifeoffetzig.com/themes/uno",
+    "images": "http://www.thelifeoffetzig.com/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
