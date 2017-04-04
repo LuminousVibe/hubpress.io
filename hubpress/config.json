@@ -2,7 +2,8 @@
   "meta": {
     "username": "LuminousVibe",
     "repositoryName": "the-life-of-fetzig",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": "www.thelifeoffetzig.com"
   },
   "site": {
     "title": "The Life of Fetzig",
@@ -10,12 +11,21 @@
     "logo": "",
     "postsPerPage": "10",
     "googleAnalytics": "UA-86934695-1",
-    "disqus": "thelifeoffetzig"
+    "disqus": "thelifeoffetzig",
+    "cover": "",
+    "delay": ""
   },
   "socialnetwork": {
     "twitter": "https://twitter.com/luminous_vibe",
     "instagram": "https://www.instagram.com/luminousvibe/",
-    "github": "https://github.com/LuminousVibe/the-life-of-fetzig"
+    "github": "https://github.com/LuminousVibe/the-life-of-fetzig",
+    "email": "",
+    "facebook": "",
+    "googleplus": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   },
   "theme": {
     "name": "uno"
